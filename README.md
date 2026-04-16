@@ -2,6 +2,15 @@
 
 A visual automation tool built with **React Flow (frontend)** and **FastAPI (backend)**.
 
+## 🔽 Download (Prebuilt EXE)
+
+Download the latest version from:
+👉 https://github.com/NevinRock/FlowDesk/releases
+
+- No installation required
+- Double-click to run
+- Works out of the box
+
 ------
 
 # Requirements
